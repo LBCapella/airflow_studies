@@ -20,7 +20,7 @@ def extrai_dados(data_interval_end):
     dados = pd.read_csv(URL)
 
     #print(dados.head()) também não queremos mais imprimir no terminal
-    file_path = f'/home/luan-capella/Documentos/curso_airflow/airflowalura/semana={data_interval_end}/'
+    file_path = f'/home/luan-capella/Documentos/repositories/airflow_studies/airflow/semana={data_interval_end}/'
     #os.mkdir(file_path) criação da pasta que não precisa mais
 
     dados.to_csv(file_path + 'dados_brutos.csv')
@@ -36,7 +36,7 @@ with DAG(
     
     tarefa_1 = BashOperator( #utilizado para executar comandos do terminal
         task_id = 'criar_pasta',#vamos criar o comando para criar uma pasta
-        bash_command = 'mkdir -p "/home/luan-capella/Documentos/curso_airflow/airflowalura/semana={{data_interval_end.strftime("%Y-%m-%d")}}"'
+        bash_command = 'mkdir -p "/home/luan-capella/Documentos/repositories/airflow_studies/airflow/semana={{data_interval_end.strftime("%Y-%m-%d")}}"'
     )
     
     tarefa_2 = PythonOperator(
