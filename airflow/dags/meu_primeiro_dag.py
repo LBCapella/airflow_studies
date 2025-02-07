@@ -14,7 +14,7 @@ with DAG(
     tarefa_3 = EmptyOperator(task_id= 'tarefa-3')
     tarefa_4 = BashOperator( #utilizado para executar comandos do terminal
         task_id = 'criar_pasta',#vamos criar o comando para criar uma pasta
-        bash_command = 'mkdir -p "/home/luan-capella/Documentos/curso_airflow/airflowalura/pasta={{data_interval_end}}"'
+        bash_command = 'mkdir -p "/home/luan-capella/Documentos/repositories/airflow_studies/airflow/pasta={{data_interval_end}}"'
     )
     
     tarefa_1 >> [tarefa_2,tarefa_3] #aqui executa a tarefa 2 e 3 em paralelo
