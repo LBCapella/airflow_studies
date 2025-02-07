@@ -1,0 +1,112 @@
+[2025-02-03 22:19:26,716] {processor.py:153} INFO - Started process (PID=40926) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:19:26,717] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2025-02-03 22:19:26,717] {logging_mixin.py:115} INFO - [2025-02-03 22:19:26,717] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:19:26,725] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:19:26,767] {logging_mixin.py:115} INFO - [2025-02-03 22:19:26,766] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-03 22:19:26,781] {logging_mixin.py:115} INFO - [2025-02-03 22:19:26,781] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2025-02-02T00:00:00+00:00, run_after=2025-02-03T00:00:00+00:00
+[2025-02-03 22:19:26,796] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py took 0.083 seconds
+[2025-02-03 22:20:54,196] {processor.py:153} INFO - Started process (PID=42634) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:20:54,197] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2025-02-03 22:20:54,198] {logging_mixin.py:115} INFO - [2025-02-03 22:20:54,198] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:20:54,207] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:20:54,219] {logging_mixin.py:115} INFO - [2025-02-03 22:20:54,219] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-03 22:20:54,231] {logging_mixin.py:115} INFO - [2025-02-03 22:20:54,231] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2025-02-04T00:00:00+00:00, run_after=2025-02-05T00:00:00+00:00
+[2025-02-03 22:20:54,242] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py took 0.051 seconds
+[2025-02-03 22:21:26,648] {processor.py:153} INFO - Started process (PID=42874) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:21:26,650] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2025-02-03 22:21:26,651] {logging_mixin.py:115} INFO - [2025-02-03 22:21:26,651] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:21:26,660] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:21:26,672] {logging_mixin.py:115} INFO - [2025-02-03 22:21:26,671] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-03 22:21:26,684] {logging_mixin.py:115} INFO - [2025-02-03 22:21:26,684] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2025-02-04T00:00:00+00:00, run_after=2025-02-05T00:00:00+00:00
+[2025-02-03 22:21:26,699] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py took 0.056 seconds
+[2025-02-03 22:22:03,989] {processor.py:153} INFO - Started process (PID=43033) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:22:03,991] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2025-02-03 22:22:03,991] {logging_mixin.py:115} INFO - [2025-02-03 22:22:03,991] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:22:03,999] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:22:04,011] {logging_mixin.py:115} INFO - [2025-02-03 22:22:04,011] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-03 22:22:04,024] {logging_mixin.py:115} INFO - [2025-02-03 22:22:04,024] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2025-02-04T00:00:00+00:00, run_after=2025-02-05T00:00:00+00:00
+[2025-02-03 22:22:04,035] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py took 0.050 seconds
+[2025-02-03 22:22:41,003] {processor.py:153} INFO - Started process (PID=43209) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:22:41,004] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2025-02-03 22:22:41,005] {logging_mixin.py:115} INFO - [2025-02-03 22:22:41,005] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:22:41,015] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:22:41,029] {logging_mixin.py:115} INFO - [2025-02-03 22:22:41,029] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-03 22:22:41,044] {logging_mixin.py:115} INFO - [2025-02-03 22:22:41,044] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2025-02-04T00:00:00+00:00, run_after=2025-02-05T00:00:00+00:00
+[2025-02-03 22:22:41,056] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py took 0.059 seconds
+[2025-02-03 22:23:16,715] {processor.py:153} INFO - Started process (PID=43488) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:23:16,716] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2025-02-03 22:23:16,717] {logging_mixin.py:115} INFO - [2025-02-03 22:23:16,717] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:23:16,727] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:23:16,740] {logging_mixin.py:115} INFO - [2025-02-03 22:23:16,740] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-03 22:23:16,753] {logging_mixin.py:115} INFO - [2025-02-03 22:23:16,753] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2025-02-04T00:00:00+00:00, run_after=2025-02-05T00:00:00+00:00
+[2025-02-03 22:23:16,767] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py took 0.057 seconds
+[2025-02-03 22:23:47,290] {processor.py:153} INFO - Started process (PID=43639) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:23:47,291] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2025-02-03 22:23:47,292] {logging_mixin.py:115} INFO - [2025-02-03 22:23:47,292] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:23:47,298] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:23:47,310] {logging_mixin.py:115} INFO - [2025-02-03 22:23:47,310] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-03 22:23:47,323] {logging_mixin.py:115} INFO - [2025-02-03 22:23:47,323] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2025-02-04T00:00:00+00:00, run_after=2025-02-05T00:00:00+00:00
+[2025-02-03 22:23:47,333] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py took 0.048 seconds
+[2025-02-03 22:24:20,217] {processor.py:153} INFO - Started process (PID=43773) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:24:20,218] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2025-02-03 22:24:20,218] {logging_mixin.py:115} INFO - [2025-02-03 22:24:20,218] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:24:20,224] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:24:20,235] {logging_mixin.py:115} INFO - [2025-02-03 22:24:20,235] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-03 22:24:20,248] {logging_mixin.py:115} INFO - [2025-02-03 22:24:20,248] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2025-02-04T00:00:00+00:00, run_after=2025-02-05T00:00:00+00:00
+[2025-02-03 22:24:20,258] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py took 0.045 seconds
+[2025-02-03 22:24:31,555] {processor.py:153} INFO - Started process (PID=43991) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:24:31,556] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2025-02-03 22:24:31,556] {logging_mixin.py:115} INFO - [2025-02-03 22:24:31,556] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:24:31,565] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:24:31,592] {logging_mixin.py:115} INFO - [2025-02-03 22:24:31,592] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-03 22:24:31,607] {logging_mixin.py:115} INFO - [2025-02-03 22:24:31,607] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2025-02-04T00:00:00+00:00, run_after=2025-02-05T00:00:00+00:00
+[2025-02-03 22:24:31,618] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py took 0.066 seconds
+[2025-02-03 22:25:06,006] {processor.py:153} INFO - Started process (PID=44417) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:25:06,007] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2025-02-03 22:25:06,008] {logging_mixin.py:115} INFO - [2025-02-03 22:25:06,008] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:25:06,017] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:25:06,028] {logging_mixin.py:115} INFO - [2025-02-03 22:25:06,028] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-03 22:25:06,041] {logging_mixin.py:115} INFO - [2025-02-03 22:25:06,041] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2025-02-04T00:00:00+00:00, run_after=2025-02-05T00:00:00+00:00
+[2025-02-03 22:25:06,051] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py took 0.049 seconds
+[2025-02-03 22:25:37,112] {processor.py:153} INFO - Started process (PID=44644) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:25:37,114] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2025-02-03 22:25:37,114] {logging_mixin.py:115} INFO - [2025-02-03 22:25:37,114] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:25:37,120] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:25:37,133] {logging_mixin.py:115} INFO - [2025-02-03 22:25:37,133] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-03 22:25:37,145] {logging_mixin.py:115} INFO - [2025-02-03 22:25:37,145] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2025-02-04T00:00:00+00:00, run_after=2025-02-05T00:00:00+00:00
+[2025-02-03 22:25:37,157] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py took 0.050 seconds
+[2025-02-03 22:26:10,543] {processor.py:153} INFO - Started process (PID=44886) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:26:10,544] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2025-02-03 22:26:10,544] {logging_mixin.py:115} INFO - [2025-02-03 22:26:10,544] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:26:10,553] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:26:10,565] {logging_mixin.py:115} INFO - [2025-02-03 22:26:10,565] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-03 22:26:10,578] {logging_mixin.py:115} INFO - [2025-02-03 22:26:10,578] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2025-02-04T00:00:00+00:00, run_after=2025-02-05T00:00:00+00:00
+[2025-02-03 22:26:10,591] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py took 0.052 seconds
+[2025-02-03 22:26:43,293] {processor.py:153} INFO - Started process (PID=45079) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:26:43,294] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2025-02-03 22:26:43,294] {logging_mixin.py:115} INFO - [2025-02-03 22:26:43,294] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:26:43,301] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:26:43,313] {logging_mixin.py:115} INFO - [2025-02-03 22:26:43,313] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-03 22:26:43,326] {logging_mixin.py:115} INFO - [2025-02-03 22:26:43,326] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2025-02-04T00:00:00+00:00, run_after=2025-02-05T00:00:00+00:00
+[2025-02-03 22:26:43,337] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py took 0.047 seconds
+[2025-02-03 22:27:20,233] {processor.py:153} INFO - Started process (PID=45258) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:27:20,234] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2025-02-03 22:27:20,235] {logging_mixin.py:115} INFO - [2025-02-03 22:27:20,235] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:27:20,243] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:27:20,255] {logging_mixin.py:115} INFO - [2025-02-03 22:27:20,255] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-03 22:27:20,267] {logging_mixin.py:115} INFO - [2025-02-03 22:27:20,267] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2025-02-04T00:00:00+00:00, run_after=2025-02-05T00:00:00+00:00
+[2025-02-03 22:27:20,278] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py took 0.050 seconds
+[2025-02-03 22:27:54,544] {processor.py:153} INFO - Started process (PID=45426) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:27:54,545] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2025-02-03 22:27:54,546] {logging_mixin.py:115} INFO - [2025-02-03 22:27:54,546] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:27:54,555] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-03 22:27:54,567] {logging_mixin.py:115} INFO - [2025-02-03 22:27:54,567] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-03 22:27:54,579] {logging_mixin.py:115} INFO - [2025-02-03 22:27:54,579] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2025-02-04T00:00:00+00:00, run_after=2025-02-05T00:00:00+00:00
+[2025-02-03 22:27:54,590] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py took 0.050 seconds
+[2025-02-04 11:00:40,584] {processor.py:153} INFO - Started process (PID=8929) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-04 11:00:40,586] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py for tasks to queue
+[2025-02-04 11:00:40,587] {logging_mixin.py:115} INFO - [2025-02-04 11:00:40,586] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-04 11:00:40,596] {processor.py:651} INFO - DAG(s) dict_keys(['meu_primeiro_dag']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py
+[2025-02-04 11:00:40,608] {logging_mixin.py:115} INFO - [2025-02-04 11:00:40,608] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-04 11:00:40,622] {logging_mixin.py:115} INFO - [2025-02-04 11:00:40,622] {dag.py:2927} INFO - Setting next_dagrun for meu_primeiro_dag to 2025-02-04T00:00:00+00:00, run_after=2025-02-05T00:00:00+00:00
+[2025-02-04 11:00:40,633] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/meu_primeiro_dag.py took 0.054 seconds

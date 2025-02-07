@@ -1,0 +1,42 @@
+[2025-02-06 19:04:27,428] {processor.py:153} INFO - Started process (PID=6951) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py
+[2025-02-06 19:04:27,429] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2025-02-06 19:04:27,429] {logging_mixin.py:115} INFO - [2025-02-06 19:04:27,429] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py
+[2025-02-06 19:04:28,043] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py
+[2025-02-06 19:04:28,053] {logging_mixin.py:115} INFO - [2025-02-06 19:04:28,052] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-06 19:04:28,065] {logging_mixin.py:115} INFO - [2025-02-06 19:04:28,065] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2025-02-03T00:00:00+00:00, run_after=2025-02-10T00:00:00+00:00
+[2025-02-06 19:04:28,076] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py took 0.650 seconds
+[2025-02-06 19:42:34,247] {processor.py:153} INFO - Started process (PID=13860) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py
+[2025-02-06 19:42:34,248] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2025-02-06 19:42:34,249] {logging_mixin.py:115} INFO - [2025-02-06 19:42:34,248] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py
+[2025-02-06 19:42:34,549] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py
+[2025-02-06 19:42:34,558] {logging_mixin.py:115} INFO - [2025-02-06 19:42:34,558] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-06 19:42:34,571] {logging_mixin.py:115} INFO - [2025-02-06 19:42:34,571] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2025-02-03T00:00:00+00:00, run_after=2025-02-10T00:00:00+00:00
+[2025-02-06 19:42:34,582] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py took 0.337 seconds
+[2025-02-06 19:42:59,377] {processor.py:153} INFO - Started process (PID=14169) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py
+[2025-02-06 19:42:59,378] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2025-02-06 19:42:59,378] {logging_mixin.py:115} INFO - [2025-02-06 19:42:59,378] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py
+[2025-02-06 19:42:59,669] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py
+[2025-02-06 19:42:59,678] {logging_mixin.py:115} INFO - [2025-02-06 19:42:59,678] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-06 19:42:59,690] {logging_mixin.py:115} INFO - [2025-02-06 19:42:59,690] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2025-02-03T00:00:00+00:00, run_after=2025-02-10T00:00:00+00:00
+[2025-02-06 19:42:59,704] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py took 0.329 seconds
+[2025-02-06 19:43:35,204] {processor.py:153} INFO - Started process (PID=14405) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py
+[2025-02-06 19:43:35,205] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2025-02-06 19:43:35,206] {logging_mixin.py:115} INFO - [2025-02-06 19:43:35,206] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py
+[2025-02-06 19:43:35,476] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py
+[2025-02-06 19:43:35,484] {logging_mixin.py:115} INFO - [2025-02-06 19:43:35,484] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-06 19:43:35,496] {logging_mixin.py:115} INFO - [2025-02-06 19:43:35,495] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2025-02-03T00:00:00+00:00, run_after=2025-02-10T00:00:00+00:00
+[2025-02-06 19:43:35,507] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py took 0.308 seconds
+[2025-02-06 19:44:05,846] {processor.py:153} INFO - Started process (PID=14590) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py
+[2025-02-06 19:44:05,847] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2025-02-06 19:44:05,847] {logging_mixin.py:115} INFO - [2025-02-06 19:44:05,847] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py
+[2025-02-06 19:44:06,119] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py
+[2025-02-06 19:44:06,127] {logging_mixin.py:115} INFO - [2025-02-06 19:44:06,127] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-06 19:44:06,138] {logging_mixin.py:115} INFO - [2025-02-06 19:44:06,138] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2025-02-03T00:00:00+00:00, run_after=2025-02-10T00:00:00+00:00
+[2025-02-06 19:44:06,149] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py took 0.305 seconds
+[2025-02-06 19:44:36,810] {processor.py:153} INFO - Started process (PID=14758) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py
+[2025-02-06 19:44:36,811] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py for tasks to queue
+[2025-02-06 19:44:36,811] {logging_mixin.py:115} INFO - [2025-02-06 19:44:36,811] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py
+[2025-02-06 19:44:37,143] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py
+[2025-02-06 19:44:37,155] {logging_mixin.py:115} INFO - [2025-02-06 19:44:37,155] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-06 19:44:37,173] {logging_mixin.py:115} INFO - [2025-02-06 19:44:37,173] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2025-02-03T00:00:00+00:00, run_after=2025-02-10T00:00:00+00:00
+[2025-02-06 19:44:37,185] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/dados_climaticos.py took 0.380 seconds

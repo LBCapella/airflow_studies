@@ -1,0 +1,46 @@
+[2024-10-11 15:19:27,963] {processor.py:153} INFO - Started process (PID=40945) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-10-11 15:19:27,964] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-10-11 15:19:27,965] {logging_mixin.py:115} INFO - [2024-10-11 15:19:27,964] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-10-11 15:19:27,973] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-10-11 15:19:28,068] {logging_mixin.py:115} INFO - [2024-10-11 15:19:28,068] {manager.py:508} INFO - Created Permission View: can edit on DAG:tutorial_etl_dag
+[2024-10-11 15:19:28,082] {logging_mixin.py:115} INFO - [2024-10-11 15:19:28,082] {manager.py:508} INFO - Created Permission View: can read on DAG:tutorial_etl_dag
+[2024-10-11 15:19:28,101] {logging_mixin.py:115} INFO - [2024-10-11 15:19:28,101] {manager.py:508} INFO - Created Permission View: can delete on DAG:tutorial_etl_dag
+[2024-10-11 15:19:28,101] {logging_mixin.py:115} INFO - [2024-10-11 15:19:28,101] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-10-11 15:19:28,108] {logging_mixin.py:115} INFO - [2024-10-11 15:19:28,108] {dag.py:2398} INFO - Creating ORM DAG for tutorial_etl_dag
+[2024-10-11 15:19:28,115] {logging_mixin.py:115} INFO - [2024-10-11 15:19:28,115] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-10-11 15:19:28,132] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.172 seconds
+[2024-10-11 15:20:03,402] {processor.py:153} INFO - Started process (PID=41632) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-10-11 15:20:03,403] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-10-11 15:20:03,403] {logging_mixin.py:115} INFO - [2024-10-11 15:20:03,403] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-10-11 15:20:03,410] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-10-11 15:20:03,425] {logging_mixin.py:115} INFO - [2024-10-11 15:20:03,425] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-10-11 15:20:03,443] {logging_mixin.py:115} INFO - [2024-10-11 15:20:03,443] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-10-11 15:20:03,462] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.065 seconds
+[2024-10-11 15:20:37,094] {processor.py:153} INFO - Started process (PID=42381) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-10-11 15:20:37,096] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-10-11 15:20:37,096] {logging_mixin.py:115} INFO - [2024-10-11 15:20:37,096] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-10-11 15:20:37,106] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-10-11 15:20:37,119] {logging_mixin.py:115} INFO - [2024-10-11 15:20:37,119] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-10-11 15:20:37,134] {logging_mixin.py:115} INFO - [2024-10-11 15:20:37,134] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-10-11 15:20:37,148] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.059 seconds
+[2024-10-11 15:21:10,428] {processor.py:153} INFO - Started process (PID=43041) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-10-11 15:21:10,429] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-10-11 15:21:10,430] {logging_mixin.py:115} INFO - [2024-10-11 15:21:10,430] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-10-11 15:21:10,441] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-10-11 15:21:10,461] {logging_mixin.py:115} INFO - [2024-10-11 15:21:10,461] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-10-11 15:21:10,480] {logging_mixin.py:115} INFO - [2024-10-11 15:21:10,480] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-10-11 15:21:10,495] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.070 seconds
+[2024-10-11 15:21:41,908] {processor.py:153} INFO - Started process (PID=43651) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-10-11 15:21:41,909] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-10-11 15:21:41,910] {logging_mixin.py:115} INFO - [2024-10-11 15:21:41,910] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-10-11 15:21:41,918] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-10-11 15:21:41,931] {logging_mixin.py:115} INFO - [2024-10-11 15:21:41,931] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-10-11 15:21:41,946] {logging_mixin.py:115} INFO - [2024-10-11 15:21:41,946] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-10-11 15:21:41,959] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.056 seconds
+[2024-10-11 15:22:13,356] {processor.py:153} INFO - Started process (PID=44402) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-10-11 15:22:13,357] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2024-10-11 15:22:13,358] {logging_mixin.py:115} INFO - [2024-10-11 15:22:13,358] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-10-11 15:22:13,366] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2024-10-11 15:22:13,385] {logging_mixin.py:115} INFO - [2024-10-11 15:22:13,385] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-10-11 15:22:13,402] {logging_mixin.py:115} INFO - [2024-10-11 15:22:13,402] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2024-10-11 15:22:13,418] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.069 seconds

@@ -1,0 +1,28 @@
+[2025-02-06 19:04:51,265] {processor.py:153} INFO - Started process (PID=7161) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-02-06 19:04:51,265] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-02-06 19:04:51,266] {logging_mixin.py:115} INFO - [2025-02-06 19:04:51,266] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-02-06 19:04:51,275] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-02-06 19:04:51,383] {logging_mixin.py:115} INFO - [2025-02-06 19:04:51,383] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-06 19:04:51,396] {logging_mixin.py:115} INFO - [2025-02-06 19:04:51,396] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-02-06 19:04:51,451] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.188 seconds
+[2025-02-06 19:43:24,294] {processor.py:153} INFO - Started process (PID=14355) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-02-06 19:43:24,296] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-02-06 19:43:24,297] {logging_mixin.py:115} INFO - [2025-02-06 19:43:24,297] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-02-06 19:43:24,308] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-02-06 19:43:24,324] {logging_mixin.py:115} INFO - [2025-02-06 19:43:24,324] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-06 19:43:24,337] {logging_mixin.py:115} INFO - [2025-02-06 19:43:24,337] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-02-06 19:43:24,360] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.071 seconds
+[2025-02-06 19:44:00,141] {processor.py:153} INFO - Started process (PID=14566) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-02-06 19:44:00,142] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-02-06 19:44:00,143] {logging_mixin.py:115} INFO - [2025-02-06 19:44:00,143] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-02-06 19:44:00,155] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-02-06 19:44:00,171] {logging_mixin.py:115} INFO - [2025-02-06 19:44:00,171] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-06 19:44:00,185] {logging_mixin.py:115} INFO - [2025-02-06 19:44:00,185] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-02-06 19:44:00,207] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.071 seconds
+[2025-02-06 19:44:35,673] {processor.py:153} INFO - Started process (PID=14727) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-02-06 19:44:35,673] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-02-06 19:44:35,674] {logging_mixin.py:115} INFO - [2025-02-06 19:44:35,673] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-02-06 19:44:35,682] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-02-06 19:44:35,698] {logging_mixin.py:115} INFO - [2025-02-06 19:44:35,698] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-02-06 19:44:35,712] {logging_mixin.py:115} INFO - [2025-02-06 19:44:35,712] {dag.py:2927} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-02-06 19:44:35,727] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.056 seconds

@@ -1,0 +1,5 @@
+[2025-02-05 19:54:30,610] {processor.py:153} INFO - Started process (PID=8608) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2025-02-05 19:54:30,611] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2025-02-05 19:54:30,612] {logging_mixin.py:115} INFO - [2025-02-05 19:54:30,612] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2025-02-05 19:54:30,615] {processor.py:653} WARNING - No viable dags retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2025-02-05 19:54:30,622] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds

@@ -1,0 +1,77 @@
+[2024-10-15 21:23:44,208] {processor.py:153} INFO - Started process (PID=9396) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:23:44,208] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-10-15 21:23:44,209] {logging_mixin.py:115} INFO - [2024-10-15 21:23:44,208] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:23:44,218] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:23:44,261] {logging_mixin.py:115} INFO - [2024-10-15 21:23:44,261] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-10-15 21:23:44,278] {logging_mixin.py:115} INFO - [2024-10-15 21:23:44,278] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-10-15T00:00:00+00:00, run_after=2024-10-16T00:00:00+00:00
+[2024-10-15 21:23:44,292] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py took 0.087 seconds
+[2024-10-15 21:24:22,571] {processor.py:153} INFO - Started process (PID=9564) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:24:22,572] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-10-15 21:24:22,573] {logging_mixin.py:115} INFO - [2024-10-15 21:24:22,573] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:24:22,582] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:24:22,597] {logging_mixin.py:115} INFO - [2024-10-15 21:24:22,596] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-10-15 21:24:22,612] {logging_mixin.py:115} INFO - [2024-10-15 21:24:22,612] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-10-15T00:00:00+00:00, run_after=2024-10-16T00:00:00+00:00
+[2024-10-15 21:24:22,625] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py took 0.057 seconds
+[2024-10-15 21:24:57,866] {processor.py:153} INFO - Started process (PID=9738) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:24:57,867] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-10-15 21:24:57,868] {logging_mixin.py:115} INFO - [2024-10-15 21:24:57,868] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:24:57,878] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:24:57,890] {logging_mixin.py:115} INFO - [2024-10-15 21:24:57,890] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-10-15 21:24:57,904] {logging_mixin.py:115} INFO - [2024-10-15 21:24:57,904] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-10-15T00:00:00+00:00, run_after=2024-10-16T00:00:00+00:00
+[2024-10-15 21:24:57,918] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py took 0.054 seconds
+[2024-10-15 21:25:34,891] {processor.py:153} INFO - Started process (PID=9983) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:25:34,892] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-10-15 21:25:34,893] {logging_mixin.py:115} INFO - [2024-10-15 21:25:34,893] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:25:34,903] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:25:34,917] {logging_mixin.py:115} INFO - [2024-10-15 21:25:34,917] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-10-15 21:25:34,935] {logging_mixin.py:115} INFO - [2024-10-15 21:25:34,935] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-10-15T00:00:00+00:00, run_after=2024-10-16T00:00:00+00:00
+[2024-10-15 21:25:34,947] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py took 0.059 seconds
+[2024-10-15 21:26:08,773] {processor.py:153} INFO - Started process (PID=10155) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:26:08,774] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-10-15 21:26:08,775] {logging_mixin.py:115} INFO - [2024-10-15 21:26:08,775] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:26:08,785] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:26:08,803] {logging_mixin.py:115} INFO - [2024-10-15 21:26:08,803] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-10-15 21:26:08,818] {logging_mixin.py:115} INFO - [2024-10-15 21:26:08,817] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-10-15T00:00:00+00:00, run_after=2024-10-16T00:00:00+00:00
+[2024-10-15 21:26:08,831] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py took 0.062 seconds
+[2024-10-15 21:26:42,349] {processor.py:153} INFO - Started process (PID=10302) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:26:42,349] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-10-15 21:26:42,350] {logging_mixin.py:115} INFO - [2024-10-15 21:26:42,350] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:26:42,358] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:26:42,370] {logging_mixin.py:115} INFO - [2024-10-15 21:26:42,370] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-10-15 21:26:42,386] {logging_mixin.py:115} INFO - [2024-10-15 21:26:42,386] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-10-15T00:00:00+00:00, run_after=2024-10-16T00:00:00+00:00
+[2024-10-15 21:26:42,398] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py took 0.052 seconds
+[2024-10-15 21:27:20,477] {processor.py:153} INFO - Started process (PID=10499) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:27:20,478] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-10-15 21:27:20,479] {logging_mixin.py:115} INFO - [2024-10-15 21:27:20,479] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:27:20,490] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:27:20,506] {logging_mixin.py:115} INFO - [2024-10-15 21:27:20,506] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-10-15 21:27:20,521] {logging_mixin.py:115} INFO - [2024-10-15 21:27:20,521] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-10-15T00:00:00+00:00, run_after=2024-10-16T00:00:00+00:00
+[2024-10-15 21:27:20,534] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py took 0.062 seconds
+[2024-10-15 21:27:54,327] {processor.py:153} INFO - Started process (PID=10705) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:27:54,328] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-10-15 21:27:54,329] {logging_mixin.py:115} INFO - [2024-10-15 21:27:54,329] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:27:54,340] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:27:54,352] {logging_mixin.py:115} INFO - [2024-10-15 21:27:54,352] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-10-15 21:27:54,366] {logging_mixin.py:115} INFO - [2024-10-15 21:27:54,365] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-10-15T00:00:00+00:00, run_after=2024-10-16T00:00:00+00:00
+[2024-10-15 21:27:54,376] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py took 0.054 seconds
+[2024-10-15 21:28:28,447] {processor.py:153} INFO - Started process (PID=10900) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:28:28,448] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-10-15 21:28:28,449] {logging_mixin.py:115} INFO - [2024-10-15 21:28:28,449] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:28:28,459] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:28:28,470] {logging_mixin.py:115} INFO - [2024-10-15 21:28:28,470] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-10-15 21:28:28,483] {logging_mixin.py:115} INFO - [2024-10-15 21:28:28,483] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-10-15T00:00:00+00:00, run_after=2024-10-16T00:00:00+00:00
+[2024-10-15 21:28:28,502] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py took 0.060 seconds
+[2024-10-15 21:29:01,301] {processor.py:153} INFO - Started process (PID=11080) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:29:01,302] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-10-15 21:29:01,302] {logging_mixin.py:115} INFO - [2024-10-15 21:29:01,302] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:29:01,313] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:29:01,326] {logging_mixin.py:115} INFO - [2024-10-15 21:29:01,326] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-10-15 21:29:01,342] {logging_mixin.py:115} INFO - [2024-10-15 21:29:01,342] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-10-15T00:00:00+00:00, run_after=2024-10-16T00:00:00+00:00
+[2024-10-15 21:29:01,353] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py took 0.056 seconds
+[2024-10-15 21:29:36,965] {processor.py:153} INFO - Started process (PID=11254) to work on /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:29:36,966] {processor.py:641} INFO - Processing file /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py for tasks to queue
+[2024-10-15 21:29:36,966] {logging_mixin.py:115} INFO - [2024-10-15 21:29:36,966] {dagbag.py:507} INFO - Filling up the DagBag from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:29:36,974] {processor.py:651} INFO - DAG(s) dict_keys(['atividade_aula_4']) retrieved from /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py
+[2024-10-15 21:29:36,986] {logging_mixin.py:115} INFO - [2024-10-15 21:29:36,986] {dag.py:2379} INFO - Sync 1 DAGs
+[2024-10-15 21:29:37,001] {logging_mixin.py:115} INFO - [2024-10-15 21:29:37,001] {dag.py:2927} INFO - Setting next_dagrun for atividade_aula_4 to 2024-10-15T00:00:00+00:00, run_after=2024-10-16T00:00:00+00:00
+[2024-10-15 21:29:37,013] {processor.py:161} INFO - Processing /home/luan-capella/Documentos/curso_airflow/airflowalura/dags/atividade_aula_4.py took 0.051 seconds
